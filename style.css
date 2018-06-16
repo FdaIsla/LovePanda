@@ -1,0 +1,150 @@
+ * {
+    margin: 0px;
+    padding: 0px;
+ }
+ 
+ body {
+    font-family: 'Raleway', sans-serif;
+ }
+
+
+
+ /* <!-- PRIMER BOX --> */
+ .container-fluid .box1 {
+    background-color: #f78e69; 
+    width: 100%; 
+    height: 150px;
+ }
+
+ .container-fluid .box1 h1 {
+     color: aliceblue;
+     font-size: 30px;
+     padding-top: 50px;
+     padding-right: 5px;
+     text-align: right;
+ } 
+
+ .container-fluid .box1 p {
+    color: aliceblue;
+    font-size: 10px;
+    padding-right: 5px;
+    text-align: right;
+    font-weight:normal;
+} 
+    /* IMAGEN */
+#uno  {
+    width: 100%;
+    margin: auto;  
+}
+
+.fistImg .row {
+    background-color:#f78e69; 
+    width: 100%; 
+    height: 20px;
+    margin: auto !important;
+       
+}
+
+
+/* <!-- SEGUNDO BOX --> */
+
+.container-fluid .box2 {
+    background-color:#abe188; 
+    width: 100%; 
+    height: 400px;
+    padding: 1em;    
+ }
+
+ .col-8 {
+    height: 250px;
+    background-color:#f78e69; 
+    margin-top: 2em;
+ }
+
+     /* TEXTO */
+ .container-fluid .box2 h2 {
+    color: aliceblue;
+    font-size: 18px;
+    padding-top: 30px;
+    padding-right: 5px;
+    text-align: center;
+} 
+
+.container-fluid .box2 p {
+   color: aliceblue;
+   font-size: 11px;
+   padding-right: 5px;
+   text-align: center;
+   font-weight:lighter;
+} 
+
+
+#dos {
+    width: 100%;
+    position: absolute; 
+    
+}
+
+.secondImg .row {
+    background-color:#f78e69; 
+    width: 100%; 
+    height: 20px;
+    margin: auto !important;
+       
+}
+
+
+/* <!-- TERCER BOX --> */
+.container-fluid #box3 {
+    background-color:#abe188; 
+    width: 100%; 
+    height: 250px;
+ }
+
+.container-fluid #box3 h1 {
+    color: aliceblue;
+    font-size: 30px;
+    padding-top: 30px;
+    padding-right: 5px;
+    text-align: center;
+    font-weight:bold;
+} 
+
+.img #a1 {
+    border:6px solid white;
+} 
+
+.img #a2 {
+    border:6px solid white;
+} 
+
+.img #a3 {
+    border:6px solid white;
+} 
+
+.img #a4 {
+    border:6px solid white;
+} 
+
+
+
+
+#tres {
+    width: 100%;
+    position: absolute; 
+    
+}
+
+.thirdImg .row {
+    background-color:#f78e69; 
+    width: 100%; 
+    height: 40px;
+    margin: auto !important;
+   
+}
+
+.thirdImg .row p {
+    font-size: 15px;
+    text-align: right; 
+    color: white;
+}
